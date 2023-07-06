@@ -10,7 +10,8 @@ https://github.com/olafmustafar/trabalho-processamento-imagens/
 
 ## Classificador
 O classificador utilizado foi o SVC (C-Support Vector Classification)  
-A acuracia obtida foi `~99%`
+A acuracia obtida foi `~99%`  
+<img  width="500px" src="results/06072023-1944.png">
 
 ## Instalação
 1. Primeiro, é necessario instalar as seguintes bibliotecas (é possível instalar a partir do arquivo requirements.txt)
