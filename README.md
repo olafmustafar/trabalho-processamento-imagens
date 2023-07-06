@@ -1,20 +1,18 @@
-#Classificação de Frutas com Scikit-learn
+# Classificação de Frutas com Scikit-learn
+Arthur Riuiti Pinheiro So  
+RA: 1932756
 
-#Equipe
-Arthur Riuiti Pinheiro So - 1932756
-
-#Dataset
+## Dataset
 https://www.kaggle.com/datasets/moltean/fruits
 
-#Repositorio
+## Repositorio
+https://github.com/olafmustafar/trabalho-processamento-imagens/
 
+## Classificador
+O classificador utilizado foi o SVC (C-Support Vector Classification)  
+A acuracia obtida foi `~99%`
 
-#Classificador
-O classificador utilizado foi o SVC (C-Support Vector Classification)
-A acuracia obtida foi ~99%
-
-#Instalação
-
+## Instalação
 1. Primeiro, é necessario instalar as seguintes bibliotecas (é possível instalar a partir do arquivo requirements.txt)
     - sklearn
     - matplotlib
