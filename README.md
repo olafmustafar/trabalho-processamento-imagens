@@ -15,6 +15,7 @@ A acuracia obtida foi `~99%`
 
 ## Instalação
 1. Primeiro, é necessario instalar as seguintes bibliotecas (é possível instalar a partir do arquivo requirements.txt)
+    - opencv-python
     - sklearn
     - matplotlib
     - progress
@@ -24,5 +25,6 @@ A acuracia obtida foi `~99%`
 3. Na raiz do projeto, criar uma pasta chamada "results"
 4. Para executar o treinamento e classificação basta executar o comando ```python3 main.py```
 
-
+## Video apresntação
+https://drive.google.com/file/d/1Hl7C77eKadbtr3tyzJV063qTJCzBqWA_/view?usp=sharing
 
